@@ -2,6 +2,6 @@
   "name": "AVS Node Operator tester",
   "website": "https://www.eigenlabs.org",
   "description": "AVS Node Testing only. Do not delegate",
-  "logo": "https://el-operator-metadata.s3.us-east-2.amazonaws.com/operator.png",
+  "logo": "https://raw.githubusercontent.com/nelsonijih/el/main/operator.png",
   "twitter": "https://twitter.com/eigenlayer"
 }
